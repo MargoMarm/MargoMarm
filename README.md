@@ -8,6 +8,10 @@
 
 - 📫 How to reach me **margomalik96@gmail.com**
 
+- I was born in Ukraine 🇺🇦, currently live in Italy 🇮🇹
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marharyta-herasymenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marharyta-herasymenko" height="30" width="40" /></a>
